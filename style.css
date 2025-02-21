@@ -1,9 +1,10 @@
 .body1 {
     height: 2500px;
+    width: 100%;
     background-color: gold;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    margin-left: 0px;
+    margin-left: -1px;
 }
 
 .body2 {
